@@ -1,6 +1,7 @@
-API_KEY = 'MyGOmPOpp3pXqDSuntnWl1eDg'
-API_KEY_SECRET = 'nkj8BMpyLvvVsWSUfb0MMTRMT0Zmwzvt7cRoY3WG0ykE5iCUaA'
-BEARER_TOKEN = 'AAAAAAAAAAAAAAAAAAAAAAoxlQEAAAAAWXrMMAcs%2FyisEnerxW0gggmzieM' \
-               '%3D9PErnz4fdmyFmd7PYRZDHuyFCNfNnCZuSRuK8Oib9lPXNTiOYX'
-ACCESS_TOKEN = '800916529-247I4FMCD7pFDUW1RgjpE9RRyhH3HKpK5WWHSmjT'
-ACCESS_SECRET_TOKEN = 'H1aCsKEezLBwjxkdafeEYgZtjR6KDTCzpxkTUkRKs5tDD'
+API_KEY = 'your api key here'
+API_KEY_SECRET = 'your api key secret here'
+BEARER_TOKEN = 'your bearer token here'
+ACCESS_TOKEN = 'your access token here'
+ACCESS_SECRET_TOKEN = 'your access secret token here'
+
+# Those keys can be got on Twitter's developer portal.
